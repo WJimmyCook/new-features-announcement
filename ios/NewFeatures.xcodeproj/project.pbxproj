@@ -194,7 +194,6 @@
 				AD3E85D4B755C07EEA992FEF /* Pods-NewFeatures-tvOSTests.debug.xcconfig */,
 				D61023620DB3F80C4CA94545 /* Pods-NewFeatures-tvOSTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -637,6 +636,7 @@
 				);
 				INFOPLIST_FILE = NewFeatures/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				MARKETING_VERSION = 1.1.1;
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
@@ -659,6 +659,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				INFOPLIST_FILE = NewFeatures/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				MARKETING_VERSION = 1.1.1;
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
